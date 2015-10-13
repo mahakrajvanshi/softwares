@@ -1,1 +1,1 @@
-# sotwares
+# softwares
